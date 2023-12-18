@@ -15,8 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Create an asynchronous React web app that uses react components, Web API from OpenWeatherMap Website and user input data to dynamically update the UI for a Weather-Journal App.
 
 ## Used Languages 
-- react
-- jsx
+- React
+- JSX
 - CSS
 - JS
 
