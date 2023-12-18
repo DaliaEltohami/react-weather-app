@@ -20,7 +20,7 @@ Create an asynchronous React web app that uses react components, Web API from Op
 - CSS
 - JS
 
-- ## Features
+ ## Features
 - Creating component based web app that use react compnents which are independent and reusable bits of code compined together to from the final app
 - Create WeatherForm components which is responsible for viewing the input form
 - Create WeatherInfo components which is responsible for viewing the result data recevied from the App component as a props
